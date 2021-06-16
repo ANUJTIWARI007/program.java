@@ -13,4 +13,6 @@ day3: input and output with some basic program;(3)
 
 day4: classes and object question;
 
+<img src="https://www.startertutorials.com/corejava/wp-content/uploads/2014/09/Java-class-objects.jpg" alt="drawing" width="400"/></img>
+
 day5: loops and operator;
