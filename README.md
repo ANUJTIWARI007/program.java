@@ -7,7 +7,8 @@ day2: data type;(program 2)
 
 <img src="https://media.giphy.com/media/0Rn1btVSW8QAbaI9tI/giphy.gif" alt="drawing" width="200"/></img>
 
-
 day3: input and output with some basic program;(3)
 
 day4: classes and object question;
+
+day5: loops and operator;
