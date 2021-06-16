@@ -9,6 +9,8 @@ day2: data type;(program 2)
 
 day3: input and output with some basic program;(3)
 
+<img src="https://www.slideteam.net/media/catalog/product/cache/960x720/i/n/input_output_process_showing_daily_tasks_and_results_Slide01.jpg" alt="drawing" width="300"/></img>
+
 day4: classes and object question;
 
 day5: loops and operator;
