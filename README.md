@@ -16,3 +16,11 @@ day4: classes and object question;
 <img src="https://www.startertutorials.com/corejava/wp-content/uploads/2014/09/Java-class-objects.jpg" alt="drawing" width="400"/></img>
 
 day5: loops and operator;
+
+day6: geek for geeks ;
+
+day7: if-else;
+
+day8: problem solving;(11_20)
+
+day 9: nested if else;(21_30)
