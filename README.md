@@ -21,6 +21,10 @@ day6: geek for geeks ;
 
 day7: if-else;
 
-day8: problem solving;(11_20)
+day8: problem solving;(11_20);
 
-day 9: nested if else;(21_30)
+day 9: nested if else;(21_30);
+
+day 10: print 10 numbers and name by loop;(26,25,24)
+
+day 11:print ood and even numbers by loop;(27,28)
