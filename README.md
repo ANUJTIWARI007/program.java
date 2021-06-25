@@ -28,3 +28,5 @@ day 9: nested if else;(21_30);
 day 10: print 10 numbers and name by loop;(26,25,24)
 
 day 11:print ood and even numbers by loop;(27,28)
+
+day12: tabel , factrioal , sum of both and sum of even and odd numbers program;(29,30,31)
