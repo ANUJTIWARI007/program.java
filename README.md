@@ -47,4 +47,5 @@ day12: tabel , factrioal , sum of both and sum of even and odd numbers program;(
 
 <img src="https://th.bing.com/th/id/OIP.PYODheY3s8-dH6XHtjHvoAHaD4?pid=ImgDet&rs=1" alt="drawing" width="300"/></img>
 
+day 13 back in the game;(45)
 
