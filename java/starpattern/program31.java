@@ -2,15 +2,17 @@ import java.util.Scanner;
 public class Main{
     public static void main(String[]args)
     {
-        int i , j , k , t;
+        Scanner sc = new Scanner(System.in);
+        int i , j , k , t ;
         boolean b;
-        for(i = 1; i <= 4; i++)
+        int n = sc.nextInt();
+        for(i = 1; i <= n; i++)
         {
             b = true;
             t = (i%2==0)?(k=65):(k=1);
-          for(j = 1; j <= 7; j++)
+          for(j = 1; j <= (2*n-1); j++)
          {
-            if(j >= 5 - i && j <= 3 + i)
+            if(j >= (n + 1) - i && j <= (n - 1) + i)
             {
                 if(b)
                 {
@@ -36,7 +38,7 @@ public class Main{
             }
             else
             {
-                System.out.print("#");
+                System.out.print(" ");
             }
          }
           System.out.print("\n");
